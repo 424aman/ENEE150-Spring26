@@ -13,11 +13,12 @@ You will find that I have broken content down into folders(should be visible abo
 It should be submitted on ELMS under the hw1 assignment. Please submit it as a zip file with your .c files in the zip. More to come, but this is the situation for now. Thanks!
 
 ## Office Hours
-- **When:** Sundays, 5:00 PM – 7:00 PM  
+- **When:** Sundays, 6:00 PM – 7:00 PM  
 - **Where:** Virtual: https://us04web.zoom.us/j/4702703477?pwd=cd0IzWJYOiy1fiFthaaFVveMfqwueA.1
               - Meeting ID: 470 270 3477
               - Passcode: 1234
-
+- **When:** Tuesdays 11:00 AM- 12:00 PM
+- **Where** In Recitation Lab, AVW
 ## Contact
 If you spot any inconsistencies or have questions, feel free to reach out:  
 📧 [agarg24@umd.edu](mailto:agarg24@umd.edu)
